@@ -6,7 +6,7 @@
  Always learning new things😎.
 
  
-## Sills
+## Skills
 💻Java, OOP, Database, SQL, Problem Solving
 <h3 align="left">Connect with me:</h3>
 <p align="left">
