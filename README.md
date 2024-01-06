@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Abo El Yazeed</h1>
-<h2 align="Skils"> Programming, OOP, Database, SQL, Problem Solving/h2>
+<h2 align="Skils"> Programming, OOP, Database, SQL, Problem Solving
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/eng-mohamed-abo-el-yazeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/eng-mohamed-abo-el-yazeed" height="30" width="40" /></a>
