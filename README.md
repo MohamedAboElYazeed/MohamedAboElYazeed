@@ -10,7 +10,7 @@
 💻Java, OOP, Database, SQL , UML Diagram , Problem Solving , HTML , CSS , Java Script
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/eng-mohamed-abo-el-yazeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/eng-mohamed-abo-el-yazeed" height="30" width="40" /></a>
+<a href="https://codepen.io/Eng-Mohamed-Abo-El-Yazeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/eng-mohamed-abo-el-yazeed" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohamed-abolyazeed-246a78255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-abo-el-yazeed-246a78255/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamed.aboelroshdy.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.aboelroshdy.3" height="30" width="40" /></a>
 <a href="https:https://www.facebook.com/mohamed.aboelroshdy.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elzoz8083/" height="30" width="40" /></a>
