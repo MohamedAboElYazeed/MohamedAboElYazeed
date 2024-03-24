@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-       <img scr =  <h1 align="center">Hi 👋, I'm Mohamed Abo El Yazeed</h1>
+       <h1 align="center">Hi 👋, I'm Mohamed Abolyazeed</h1>
 </div>
 
 ## About me :mortar_board:
