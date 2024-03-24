@@ -1,11 +1,16 @@
+# Welcome to my github! 👋
 
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+</div>
 
-<h1 align="center">Hi 👋, I'm Mohamed Abo El Yazeed</h1>
-<h2 align="center"> Iam currently learning Front End
+## About me :mortar_board:
+Iam currently learning Front End
  and Software Enginnering💻❤️,
  Always learning new things😎.
 
- 
+<h1 align="center">Hi 👋, I'm Mohamed Abo El Yazeed</h1>
+
 ### Languages and Tools:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
