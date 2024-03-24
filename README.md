@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+<h1 align="center">Hi 👋, I'm Mohamed Abo El Yazeed</h1>
 </div>
 
 ## About me :mortar_board:
@@ -9,7 +9,6 @@ Iam currently learning Front End
  and Software Enginnering💻❤️,
  Always learning new things😎.
 
-<h1 align="center">Hi 👋, I'm Mohamed Abo El Yazeed</h1>
 
 ### Languages and Tools:
 
