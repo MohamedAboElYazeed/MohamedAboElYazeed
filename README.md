@@ -1,6 +1,9 @@
 # Welcome to my github! 👋
 
-<img align="center" marign-right = 40px; src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<div align="center">
+    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</div>
+
 
 <div align="center">
        <h1 align="center">Hi 👋, I'm Mohamed Abolyazeed</h1>
