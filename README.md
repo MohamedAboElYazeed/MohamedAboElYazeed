@@ -8,8 +8,8 @@
 </div>
 
 ## About me :mortar_board:
-My name is Mohamed Abolyazeed and I am a computer science and information technology student ,and I am interested in the field of computer science and technology and also In the field of artificial intelligence and data 
-science, Iam currently learning Front End and computer science💻❤️,   Always learning new things😎.
+
+My name is Mohamed Abolyazeed and I am a computer science and information technology student ,and I am interested in the field of computer science and technology and also In the field of artificial intelligence and data science, Iam currently learning Front End 💻❤️, Always learning new things😎.
 
 
 ### Languages and Tools:
