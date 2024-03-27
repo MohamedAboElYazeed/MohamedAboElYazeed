@@ -16,6 +16,41 @@ My name is Mohamed Abolyazeed and I am a computer science and information techno
 
 (https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,php,html,css,svg,md,mysql,mongodb,postgres,stackoverflow,visualstudio,vscode,eclipse,idea,atom,tensorflow,figma,devto,git,github,linkedin,linux,powershell)](https://skillicons.dev)
 <br/>
+</div>
+
+<br><br>
+  ## <picture><img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif" width=5% valign="bottom"></picture> Github Stats
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mohamedkhalifaabbas&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" />
+  <br></br>
+  
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkhalifaabbas&theme=onedark&hide_border=false" /> 
+
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkhalifaabbas&langs_count=10&show_icons=true&locale=en&theme=onedark"/>
+    <br><br>
+
+<a href="https://github.com/mohamedkhalifaabbas"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedkhalifaabbas&theme=onedark&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
+
+  </td>
+</tr>
+</table>
+
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mohamedkhalifaabbas&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
+<br><br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
