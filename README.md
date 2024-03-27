@@ -21,11 +21,6 @@ My name is Mohamed Abolyazeed and I am a computer science and information techno
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,php,html,css,svg,md,mysql,mongodb,postgres,stackoverflow,visualstudio,vscode,eclipse,idea,atom,tensorflow,figma,devto,git,github,linkedin,linux,powershell)](https://skillicons.dev)
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-
-
-
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
