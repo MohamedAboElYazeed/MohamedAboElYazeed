@@ -14,6 +14,8 @@ My name is Mohamed Abolyazeed and I am a computer science and information techno
 
 ### Languages and Tools:
 
+(https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,php,html,css,svg,md,mysql,mongodb,postgres,stackoverflow,visualstudio,vscode,eclipse,idea,atom,tensorflow,figma,devto,git,github,linkedin,linux,powershell)](https://skillicons.dev)
+<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
