@@ -26,25 +26,25 @@ My name is Mohamed Abolyazeed and I am a computer science and information techno
 </div>
 
 <br><br>
-  ## <picture><img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif" width=5% valign="bottom"></picture> Github Stats
+  ## <picture><img src="https://raw.githubusercontent.com/mohamedabolyazeed/mohamedabolyazeed/main/Images/Statistics.gif" width=5% valign="bottom"></picture> Github Stats
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mohamedkhalifaabbas&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username= Mohamed Abolyazeed &show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" />
   <br></br>
   
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedkhalifaabbas&theme=onedark&hide_border=false" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user= Mohamed Abolyazeed &theme=onedark&hide_border=false" /> 
 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkhalifaabbas&langs_count=10&show_icons=true&locale=en&theme=onedark"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username= Mohamed Abolyazeed &langs_count=10&show_icons=true&locale=en&theme=onedark"/>
     <br><br>
 
-<a href="https://github.com/mohamedkhalifaabbas"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedkhalifaabbas&theme=onedark&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
+<a href="https://github.com/mohamedkhalifaabbas"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= Mohamed Abolyazeed &theme=onedark&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
 
   </td>
 </tr>
@@ -52,7 +52,7 @@ My name is Mohamed Abolyazeed and I am a computer science and information techno
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Mohamed Abolyazeed &theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username= Mohamed Abolyazeed &theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
