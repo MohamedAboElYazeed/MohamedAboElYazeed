@@ -37,7 +37,6 @@ My name is Mohamed Abolyazeed and I am a computer science and information techno
     <a href="https://www.linkedin.com/in/mohamed-abolyazeed-246a78255/" target=_blank><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-abo-el-yazeed-246a78255/" height="30" width="40" /></a>
     <a href="https://www.facebook.com/mohamed.aboelroshdy.3" target=_blank><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.aboelroshdy.3" height="30" width="40" /></a>
     <a href="https://www.instagram.com/elzoz8083/" target=_blank><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elzoz8083/" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/Mohamed_Abo_El_Yazeed" target=_blank><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Mohamed_Abo_El_Yazeed" target="_blank" height="30" width="40" /></a>
 </p>
 
 
